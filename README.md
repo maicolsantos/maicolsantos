@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Maicol Santos
 
-I'm Maicol Santos, a passionate Frontend Developer with a robust background in web and mobile development. I specialize in crafting seamless and innovative user interfaces using technologies such as React, VueJS, and React Native.
+A passionate Frontend Developer with a robust background in web and mobile development. I specialize in crafting seamless and innovative user interfaces using technologies such as React, VueJS, and React Native.
 
 With years of experience, I have honed my skills in developing responsive, user-friendly applications. My expertise lies in transforming complex requirements into intuitive and aesthetically pleasing digital experiences. Whether it's building scalable design systems or creating dynamic single-page applications, I strive to deliver high-quality code and exceptional user experiences.
 
