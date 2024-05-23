@@ -7,10 +7,3 @@
 <a href="https://linkedin.com/in/maicolsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maicolsantos" height="30" width="40" /></a>
 </p><br/>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maicolsantos" alt="maicolsantos" /></a></p>
-
-![](https://github-readme-stats.vercel.app/api?username=maicolsantos&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maicolsantos&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=maicolsantos&label=Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
